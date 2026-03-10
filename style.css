@@ -315,9 +315,10 @@ nav a:hover {
     line-height: 1;
 }
 
-.social-icons i {
+.social-icons span i {
     width: 30px;
     text-align: center;
+    color: var(--accent-color);
 }
 
 .copy-toast {
